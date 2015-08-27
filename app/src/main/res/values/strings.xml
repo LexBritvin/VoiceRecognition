@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VoiceRecognition</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="recognized_words">
+        <item>вперёд</item>
+        <item>назад</item>
+        <item>влево</item>
+        <item>вправо</item>
+        <item>стоп</item>
+        <item>тест</item>
+    </string-array>
+
+</resources>
